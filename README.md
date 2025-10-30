@@ -4,6 +4,8 @@ A production-ready, reproducible project for predicting customer churn using an 
 
 This repository contains the full experiment (data prep, model training, evaluation) and a lightweight web app for non-technical stakeholders to interact with the model.
 
+#you can test this project in here :
+https://churn-identifier007.streamlit.app/
 ---
 
 ## Key highlights
@@ -161,3 +163,4 @@ If you'd like, I can also:
 - Add the `predict.py` script and unit tests.
 
 Tell me which one you want next and I will implement it.
+
